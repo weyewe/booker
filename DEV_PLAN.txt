@@ -1,0 +1,8 @@
+development plan
+
+1. no transaction activity 
+2. Heavy on UI level (ext js + calendar + integration-- it is gonna be shite ) 
+3. pure JSON data exchange 
+
+
+=> expand to multi tenant case 
